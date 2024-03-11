@@ -1303,7 +1303,8 @@ footer .footnote .highlight {
 
 .portfolio {
 
-  margin: 60px 0px;
+  /* margin: 60px 0px; */
+  /* margin: 0 0 60px; */
   padding: 0px 20px;
   
 }
